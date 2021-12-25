@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lazy Api</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="games">Games</string>
+    <string name="esport">Esport</string>
+    <string name="lazy_talk">Lazy Talk</string>
+    <string name="games_review">Games Review</string>
+    <string name="default_text">-</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="next_btn">Next Btn</string>
+</resources>

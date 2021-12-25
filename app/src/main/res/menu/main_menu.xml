@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_games"
+        android:icon="@drawable/ic_baseline_games_24"
+        android:title="@string/games"
+        app:cnb_iconColor="@color/white"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_esport"
+        android:icon="@drawable/ic_baseline_group_24"
+        android:title="@string/esport"
+        app:cnb_iconColor="@color/white"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_lazy_talk"
+        android:icon="@drawable/ic_baseline_event_seat_24"
+        android:title="@string/lazy_talk"
+        app:cnb_iconColor="@color/white"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_game_review"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="@string/games_review"
+        app:cnb_iconColor="@color/white"
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23025641025641025" />
+        <entry key="app/src/main/res/drawable/bg_btn.xml" value="0.23025641025641025" />
+        <entry key="app/src/main/res/drawable/circle_background.xml" value="0.23025641025641025" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.23025641025641025" />
+        <entry key="app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.23025641025641025" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.23730964467005075" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/content_list.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/fragment_esport.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/fragment_game_review.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/fragment_games.xml" value="0.1960167714884696" />
+        <entry key="app/src/main/res/layout/fragment_lazy_talk.xml" value="0.25518925518925517" />
+        <entry key="app/src/main/res/layout/item_list.xml" value="0.2" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.21770833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
