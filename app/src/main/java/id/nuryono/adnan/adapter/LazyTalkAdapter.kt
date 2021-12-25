@@ -1,9 +1,11 @@
 package id.nuryono.adnan.adapter
 
+import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import id.nuryono.adnan.R
 import id.nuryono.adnan.databinding.ItemListBinding
 import id.nuryono.adnan.model.Items
 
